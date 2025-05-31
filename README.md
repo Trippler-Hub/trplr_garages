@@ -5,7 +5,7 @@
 * You can only parks vehicles that you own in public garages.
 
   
-- Enhanced ![image](https://github.com/user-attachments/assets/f307d135-cdf2-425a-b161-5f74f4c23c9e)
+- Enhanced ![image](https://github.com/user-attachments/assets/6060f22f-b7d7-4048-bdcf-042b6b8927d5)
 
 - Old ![image](https://github.com/qbcore-framework/qb-garages/assets/57848836/b56344ea-a902-4c07-9ae6-4984486648d2)
 
